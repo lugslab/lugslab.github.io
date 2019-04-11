@@ -1,2 +1,3 @@
-# lugslab.github.io
-moped.dev
+---
+permalink: /index.html
+---
