@@ -1,3 +1,2 @@
----
-permalink: /index.html
----
+# lugslab.github.io
+moped.dev
